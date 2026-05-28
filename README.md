@@ -50,7 +50,8 @@ O código funciona corretamente, mas contém **6 vulnerabilidades intencionais**
 **1. Clone o repositório**
 
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/MatheusLBatista/Privacy-by-Design.git
+
 cd privacy-by-design
 ```
 
